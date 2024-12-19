@@ -25,10 +25,10 @@ Black HEX color code: #000000
 
 // HIGH PRIORITY CHANGES
 // 2. Change project name and colours:
-const companyName = 'NOTFLIX'
-const companyNameColor = '#E50914'
+const companyName = ''
+const companyNameColor = ''
 
-const formButtonBackgroundColor = '#E50914'
+const formButtonBackgroundColor = '##00A3FE'
 const formButtonTextColor = '#FFFFFF' // Make this either black (#000000) or white (#FFFFFF) depending on what is easiest to read on your button color of choice
 
 // 3. Update social media links:
